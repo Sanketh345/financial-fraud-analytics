@@ -38,7 +38,7 @@ Synthetic Transaction Generator
 
 ### Transaction Generation
 - Real-time synthetic financial transaction generation
-- ~500 simulated users
+- ~5000 simulated users
 - ~5% of users designated as high-risk
 - Fraud users exhibit:
   - High transaction velocity
